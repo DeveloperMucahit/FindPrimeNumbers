@@ -22,5 +22,5 @@ Input: 100 -> Output: En Yakın Asal Sayı= 101
 Input: 99 -> En Yakın Asal Sayı= 97
 - Second Challenge
 Input: 100 -> Output: En Yakın Asal Sayıların Toplamı= 198
-Input: 97 -> Output: En Yakın Asal Sayıların Toplamı= 198
+Input: 99 -> Output: En Yakın Asal Sayıların Toplamı= 198
 
